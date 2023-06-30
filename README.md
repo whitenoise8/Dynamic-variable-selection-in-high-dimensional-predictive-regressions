@@ -4,4 +4,4 @@ This folder contains the main paper [Bernardi, Bianchi, and Bianco (2023)] and t
 
 A simple R code named TestCode.R is provided together with the source package dynGB_1.0.tar.gz.
 
-If you have any issues/comments feel free to mail me nicolas.bianco@phd.unipd.it
+If you have any issues/comments feel free to mail me nicolas.bianco@upf.edu
